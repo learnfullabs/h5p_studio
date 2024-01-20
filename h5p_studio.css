@@ -1,0 +1,22 @@
+.hidden {
+  display: none !important;
+}
+
+.h5p-actions .lt-icon {
+  float: right;
+  margin-right: 0;
+
+}
+.h5p-actions .lstudio-link {
+  display: inline-flex;
+  color: #999;
+  text-decoration: none;
+  align-items: center;
+  gap: 5px;
+}
+
+.h5p-actions .lstudio-link img {
+  max-height: 17px;
+}
+
+

@@ -1,0 +1,8 @@
+{
+    "name": "learnfullabs/h5p_studio",
+    "type": "drupal-custom-module",
+    "description": "Style and functionality customizations for the H5P module. Used in Learnful Studio.",
+    "homepage": "https://github.com/learnfullabs/h5p_studio",
+    "license": "GPL-3.0+"
+  }
+  

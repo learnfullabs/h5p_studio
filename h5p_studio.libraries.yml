@@ -1,0 +1,6 @@
+global:
+  version: 1.0
+  js:
+    h5p_studio.js: {}
+  css:
+    h5p_studio.css: {}
